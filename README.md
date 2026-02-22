@@ -1,5 +1,17 @@
 # integration-jenkins-docker
+# Título
+Integración de Jenkins en Docker
 
+## Comenzando 🚀
+_Estas instrucciones te permiten obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+_Que cosas necesitas para instalar el software y como instalarlas_
+- Manejar la consola de CMD para la ejecución de comandos.
+- Docker Desktop.
+
+
+### Instalación 🔧 Pruebas ⚙️ y Despliegues 📦
 Integración de Jenkins en Docker:
 Si nos vamos al Docker Hub veremos que tenemos multitud de tags para la imagen de jenkins/jenkins
 https://hub.docker.com/_/jenkins
