@@ -65,3 +65,7 @@ Keen_herschel es el nombre del contenedor que se ha creado en la imagen jenkins/
 /var/jenkins_home/secrets/initialAdminPassword es el fichero donde se encuentra el password inicial para jenkins.
 De esta forma puedes guardar el password en una variable de entorno y usarlo en un script, para acceder desde otra aplicación usando la API, etc.
 JENKINS_InitialPassword=$(docker exec keen_herschel /var/jenkins_home/secrets/initialAdminPassword)
+
+
+## Licencia 📄
+Bajo licencia GNU General Public License v3.0
