@@ -5,10 +5,9 @@ Integración de Jenkins en Docker
 ## Comenzando 🚀
 _Estas instrucciones te permiten obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### Pre-requisitos 📋
-_Que cosas necesitas para instalar el software y como instalarlas_
-- Manejar la consola de CMD para la ejecución de comandos.
-- Docker Desktop.
+### 🛠️ Tecnologías utilizadas
+- Consola de CMD para la ejecución de comandos
+- Docker Desktop
 
 
 ### Instalación 🔧 Pruebas ⚙️ y Despliegues 📦
