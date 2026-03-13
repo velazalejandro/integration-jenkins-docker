@@ -69,3 +69,8 @@ JENKINS_InitialPassword=$(docker exec keen_herschel /var/jenkins_home/secrets/in
 
 ## Licencia 📄
 Bajo licencia GNU General Public License v3.0
+
+
+## Autor
+Alejandro Velaz
+🎓 Formación: ASIR
